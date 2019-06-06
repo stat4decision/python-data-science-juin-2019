@@ -10,7 +10,7 @@ Pour utiliser les notebooks, veuillez installer Anaconda pour python 3.
 
 Autres solutions :
 - utiliser Binder
- - utiliser [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stat4decision/python-data-science-juin-2019)]
+ - utiliser [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stat4decision/python-data-science-juin-2019)
 
 
 ## Organisation des notebooks
@@ -35,7 +35,7 @@ Autres solutions :
 
 [NLP avec SpaCy](/08_nlp_avec_spacy.ipynb)
 
-[ML sur du texte](/08a_Analyse textuelle.ipynb)
+[ML sur du texte](/08a_Analyse_textuelle.ipynb)
 
 [Scrapping web](/08c_scrapping_web.ipynb)
 
